@@ -2,9 +2,7 @@
 - 👀 I’m interested in Tech, FOSS, Linux, Git, Python, GIS, Data Analysis, Modern Physics, Ocean Modelling, LaTeX, and so on.
 - 🌱 I’m currently learning Bash, Python, R, MATLAB, Git, and LaTeX
 - 💞️ I’m looking to collaborate on any project or paper that relates to GIS, Data Analysis or LaTeX.
-- 📫 Feel free to reach me on,
-  linkedin.com/in/mk7ossen
-  x.com/mk7ossen
+- 📫 Feel free to reach me.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like Bangi. 😄
 
