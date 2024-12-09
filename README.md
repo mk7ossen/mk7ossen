@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any project or paper that relates to GIS, Data Analysis or LaTeX.
 - 📫 Feel free to reach me.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I like Bangi. 😄
 
 <!---
 mk7ossen/mk7ossen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
