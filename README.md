@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Mohammad Kawsar Hossen.
-- 👀 I’m interested in Tech, FOSS, Linux, Git, Python, GIS, Data Analysis, Modern Physics, Ocean Modelling, LaTeX, and so on.
-- 🌱 I’m currently learning Bash, Python, R, MATLAB, Git, and LaTeX
-- 💞️ I’m looking to collaborate on any project or paper that relates to GIS, Data Analysis or LaTeX.
-- 📫 Feel free to reach me.
+- 👋 Hi, I’m Mohammad Kawsar Hossen
 - 😄 Pronouns: He/him
 
 <!---
